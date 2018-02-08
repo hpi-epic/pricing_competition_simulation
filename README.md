@@ -11,4 +11,4 @@ In case you have any questions, feel free to contact us.
 **Contributors:**
  * Martin Boissier (@Bouncner)
  * Rainer Schlosser (Fax: +49 (331) 5509-579)
- * Tom Schwarzburg
+ * Tom Schwarzburg (@tomschw)
