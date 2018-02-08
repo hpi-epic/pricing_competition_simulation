@@ -9,6 +9,6 @@ The goal of this repository is to provide a small simulation framework that allo
 In case you have any questions, feel free to contact us.
 
 **Contributors:**
- * Martin Boissier
- * Rainer Schlosser
+ * Martin Boissier (@Bouncner)
+ * Rainer Schlosser (Fax: +49 (331) 5509-579)
  * Tom Schwarzburg
