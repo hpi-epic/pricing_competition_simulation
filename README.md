@@ -6,7 +6,7 @@ The goal of this repository is to provide a small simulation framework that allo
 Our aims is less on an end-to-end evaluation of demand learning techniques. Hence, we do not make any claims about the superiority of any technique. Our focus is to provide a framework for research on demand learning that allows users to evaluate how certain techniques can be applied to the challenge of demand learning on online market places. 
 
 ## Jupyter Notebooks:
- * **demand_learning.ipynb**: our main notebook
+ * **demand_learning.ipynb**: this notebook reads the market data created before and trains various models in order to predict demand.
 
 In case you have any questions, feel free to contact us.
 
