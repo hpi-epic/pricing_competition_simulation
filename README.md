@@ -8,7 +8,8 @@ Our aims is less on an end-to-end evaluation of demand learning techniques. Henc
 ## Jupyter Notebooks:
  * **demand_learning.ipynb**: this notebook reads the market data created before and trains various models in order to predict demand.
  * **market_simulation.ipynb**: this notebook creates three output files. For a given number of market situations, each market situation is simulated with the same starting conditions multiple times for a given time horizon.
- * **monte_carlo.ipynb**: this notebook creates two files. For a number of market situations and a set of prices, it creates features. Then for each market situation and each price it runs multiple simulations and tracks the purchases. For one price it also splits up the time between price adjustments.
+ * **monte_carlo.ipynb**: this notebook creates two files. For a number of market situations and a set of prices, it creates features. Then for each market situation and each price it runs multiple simulations and tracks the purchases.
+  * **intensity.ipynb**: this notebook tracks the purchases for one price and one market situation with many simulations. It splits up the time between price adjustments.
 
 ## Installation
 
